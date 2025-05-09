@@ -12,3 +12,5 @@ This repository contains project aimed at learning about web security concepts a
   -  Pre-requisites: Basic understanding of web applications and command line interfaces.
   - Lab Set-up: Install DVWA and Burp Suite, configure environments for testing command injection vulnerabilities.
   -  Exercises: Identify command injection vulnerabilities, execute arbitrary commands, and implement mitigation measures.
+# Conclusion
+Both bWAPP and DVWA serve as excellent platforms for learning about web application vulnerabilities. While DVWA focuses on a range of vulnerabilities with adjustable security levels, bWAPP offers a broader set of vulnerabilities, making both tools valuable for ethical hacking practice and enhancing security skills.

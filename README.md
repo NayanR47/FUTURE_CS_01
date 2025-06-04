@@ -1,7 +1,7 @@
 # Web Application Security Testing
 This repository contains project aimed at learning about web security concepts and techniques. This project focuses on a specific vulnerability or attack scenario and provides step-by-step instructions on how to identify, exploit, and mitigate the associated risks.
 # Project Overview
-1. Identifying and Exploiting SQL Injection Vulnerabilities using bWAPP
+1. Identifying and Exploiting SQL Injection Vulnerabilities using DVWA
  - Introduction: Learn how to identify and exploit SQL injection vulnerabilities using the bWAPP web application.  
  - Pre-requisites: Basic understanding of web applications and SQL.  
  - Lab Set-up: Install bWAPP and Burp Suite, configure database connections.  
